@@ -1,4 +1,6 @@
-Hey, I'm 62. A passing FrontEnd Rider ✨
+Hey, I'm 62. 🙋‍♂️
+
+A passing FrontEnd Rider ✨
 
 Welcome to my Blog 😁[Ashenone62](https://www.ashenone62.ltd/)
 
