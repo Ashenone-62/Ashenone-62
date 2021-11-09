@@ -14,10 +14,9 @@
 ![](https://img.shields.io/static/v1?label=&message=Node&color=339933&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=Vue.js&logoColor=white)
 
-## 
+## Data Panel
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashenone-62&show_icons=true&hide=contribs,prs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenone-62&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
